@@ -1,7 +1,7 @@
 {
-  "name": "AeroX AIO V3",
+  "name": "California Systems",
   "version": "1.0.0",
-  "description": "A versatile Discord.js bot with advanced sharding and modular command architecture",
+  "description": "Watching over California State RolePlay",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
